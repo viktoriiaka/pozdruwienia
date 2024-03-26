@@ -1,0 +1,44 @@
+
+body {
+	margin: 10;
+	background: #EEEEEE;
+	font-family: Helvetica;
+}
+#header{
+    background: rgb(24, 92, 30);
+	height: 300px;
+    color: rgb(168, 98, 233);
+    text-align: center;
+    padding-top: 80;
+    
+}
+#main{
+    background-color: rgb(168, 98, 233);
+    height: 600px;
+    display: flex;
+}
+#lewo{
+    margin-left: 0;
+    padding-top: 50;
+    padding-left: 50;
+}
+#prawo{
+    margin-right: 0;
+    position: absolute;
+    right: 60;
+    padding-top: 50;
+}
+#stopka {
+	text-align: right;
+	background-color: rgb(24, 92, 30);
+	padding: 10px;
+    color: rgb(168, 98, 233);
+height: 150px;
+}
+
+#srodek{
+    align-items: center;
+    margin-left: 180px;
+    padding-top: 50;
+
+}
